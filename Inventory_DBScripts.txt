@@ -15,4 +15,4 @@ WITH (
 TABLESPACE pg_default;
 
 ALTER TABLE public."ArticleStocks"
-    OWNER to "DotNetCoreUser";
+    OWNER to "postgres";
